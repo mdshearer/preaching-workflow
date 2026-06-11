@@ -8,7 +8,7 @@
 
 ## A starting structure (adapt freely)
 
-<!-- This is a known-good shape for a ~20-minute all-age/Anglican-style reflection. It is a starting point, not a cage — reshape it to the text and the room. Times are rough. -->
+<!-- This is a known-good shape for a ~20-minute all-age reflection. It is a starting point, not a cage — reshape it to the text, your tradition, and the room. Times are rough. -->
 
 1. **Preamble (~2 min)** — why this passage, why now, a way in. Series connection if relevant.
 2. **Reading / encounter with the text (~6 min)** — get the passage into the room. Participatory or multi-sensory if it fits: read it well, act it, show something, invite people to notice.
