@@ -2,7 +2,7 @@
 
 A workflow for preparing sermons and reflections **in your own voice**, with an AI collaborator (Claude Code) that works as a *tutor*, not a ghost-writer.
 
-It gives you a staged process (devotional → exegetical → hermeneutical → homiletical → critique → final cut), a "Constitution" that refuses the ways AI-assisted preaching tends to go wrong, and a Critic that scores your draft on voice *and* theological completeness without rewriting a word of it. The point is not throughput. The point is to help you see the text — and your own voice — more clearly.
+It gives you a staged process (devotional → exegetical → hermeneutical → homiletical → critique → final cut), a "Constitution" that refuses the ways AI-assisted preaching could go wrong, and a Critic that scores your draft on voice *and* theological completeness without rewriting a word of it. The point is not throughput. The point is to help you see the text — and your own voice — more clearly.
 
 ## Why it exists
 
@@ -10,7 +10,7 @@ AI will happily write you a sermon. The result is fluent, generic, and not yours
 
 ## Quickstart
 
-1. **Clone this repo** and open it in [Claude Code](https://claude.com/claude-code) (or another Claude coding agent).
+1. **Clone this repo** and open it in [Claude Code](https://claude.com/claude-code) (or another coding agent).
 2. Say: **"help me get started."** Claude runs the `setup-preacher` onboarding skill — it asks for two or three samples of your real writing or speaking, builds your `frameworks/voice-profile.md` from them, and scaffolds your first reflection's brief.
 3. Work the stages with Claude in tutor mode: `01-brief` → `02-devotional` → … → `07-final`. Read the Constitution first.
 
@@ -28,6 +28,7 @@ That's it. No build step, no dependencies for the core workflow. (The optional N
 ## Make it yours
 
 This is a **template**. The voice work is built to be filled with *your* voice — the example profile and exemplar use a fictional preacher you should replace. The theological frame draws on one particular teacher (Darrell Johnson); if you preach from a different tradition, swap the references and keep the discipline. See `NOTICE.md` for attribution and licensing.
+If you don't use Notion, you could try Google Docs or some other online collaborative tool. The idea is that, you still need a surface to write on and make comments on that an ai can sync with. Tools like claude code and codex can relatively easily build those sync tools for you, especially if you point them at this repo as an example.
 
 ## Licensing (short version)
 
