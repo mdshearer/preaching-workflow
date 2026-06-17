@@ -4,6 +4,8 @@ A workflow for preparing sermons and reflections **in your own voice**, with an 
 
 It gives you a staged process (devotional → exegetical → hermeneutical → homiletical → critique → final cut), a "Constitution" that refuses the ways AI-assisted preaching could go wrong, and a Critic that scores your draft on voice *and* theological completeness without rewriting a word of it. The point is not throughput. The point is to help you see the text — and your own voice — more clearly.
 
+[Human note from the author: the majority of this repo is written by Claude Code with my guidance. It is written for humans but, I tend to rely on the ai coding tools to understand most of it rather than reading everything manually. The central idea here is to spend more time on reflecting and understanding, and less time on the painful parts of writing]
+
 ## Why it exists
 
 AI will happily write you a sermon. The result is fluent, generic, and not yours — and it shortcuts the very work (sitting with a text until it grabs you) that preaching is supposed to be. This workflow inverts that: the AI asks questions, holds the discipline, and scores the draft, but **you** write the words. Your voice is captured up front from samples of how you actually speak and write, and every stage is measured against it.
